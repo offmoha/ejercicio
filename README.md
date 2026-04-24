@@ -1,3 +1,3 @@
 # ejercicio
-Moha
-Sergio
+Omar
+Sergio Santamaria
