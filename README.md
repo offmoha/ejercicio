@@ -1,3 +1,3 @@
 # ejercicio
-Moha
-Sergio
+Moha Moulay
+Sergio Profesor
