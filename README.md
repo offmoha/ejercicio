@@ -1,3 +1,3 @@
 # ejercicio
-Omar
 Sergio Santamaria
+Moha Moulay
